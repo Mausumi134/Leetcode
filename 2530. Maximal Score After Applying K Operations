@@ -1,0 +1,17 @@
+class Solution {
+public:
+    long long maxKelements(vector<int>& nums, int k) {
+        priority_queue<int>q;
+        for(int i=0;i<nums.size();i++){
+            q.push(nums[i]);
+        }
+        long long int result=0;
+        while(k--){
+         int maxele=q.top();
+         result+=maxele;
+         q.pop();
+         q.push(ceil(maxele/3.0));
+        }
+        return result;
+    }
+};
