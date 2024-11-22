@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int maxEqualRowsAfterFlips(vector<vector<int>>& matrix) {
+        int n=matrix.size();
+        int m=matrix[0].size();
+        unordered_map<string,int>mp;
+        for(auto& row:matrix){
+            string result="";
+            int firstrow=row[0];
+            for(int col=1;col<m;col++){
+                result+=row[col]==firstrow?"s":"b";
+            }
+            mp[result]++;
+        }
+        int maxrows=0;
+        for(auto it:mp){
+            maxrows=max(maxrows,it.second);
+        }
+        return maxrows;
+    }
+};
