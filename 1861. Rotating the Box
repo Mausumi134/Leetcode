@@ -1,0 +1,33 @@
+class Solution {
+public:
+    vector<vector<char>> rotateTheBox(vector<vector<char>>& box) {
+        int row=box.size();
+        int col=box[0].size();
+        vector<vector<char>>result(col,vector<char>(row));
+         for(int i=0;i<col;i++){
+            for(int j=0;j<row;j++){
+                result[i][j]=box[j][i];
+            }
+         }
+         for(vector<char>&rows:result){
+            reverse(rows.begin(),rows.end());
+         }
+
+         for(int j=0;j<row;j++){
+             int spacebottom=col-1;
+            for(int i=col-1;i>=0;i--){
+              
+                if(result[i][j]=='*'){
+                    spacebottom=i-1;
+                    
+                }
+                if(result[i][j]=='#'){
+                    result[i][j]='.';
+                    result[spacebottom][j]='#';
+                    spacebottom--;
+                }
+            }
+         }
+         return result;
+    }
+};
