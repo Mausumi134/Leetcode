@@ -1,0 +1,33 @@
+class Solution {
+public:
+    int minimumSize(vector<int>& v, int m) {
+        int i,j,n=v.size();
+        j=1;
+        for(i=0;i<n;i++){
+            j=max(v[i],j);
+        }
+        i=1;
+        while(i<j){
+            int mid=(i+j)/2;
+            int k=0;
+            int x=0;
+
+            for(k=0;k<n;k++){
+                x+=(v[k]/mid);
+                if(v[k]%mid==0){
+                    x--;
+                }
+                if(x>m){
+                    break;
+                }
+            }
+            
+            if(x<=m){
+                j=mid;
+            }else{
+                i=mid+1;
+            }
+        }
+        return j;
+    }
+};
