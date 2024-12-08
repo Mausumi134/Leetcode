@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int maxTwoEvents(vector<vector<int>>& events) {
+       sort(events.begin(),events.end());
+       priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+
+       int maxval=0,maxsum=0;
+
+      for(auto& event:events){
+          while(!pq.empty() && pq.top().first<event[0]){
+             maxval=max(maxval,pq.top().second);
+             pq.pop();
+          }
+          int sum=maxval+event[2];
+          maxsum=max(maxsum,sum);
+          pq.push({event[1],event[2]});
+      }
+       return maxsum;
+    }
+};
