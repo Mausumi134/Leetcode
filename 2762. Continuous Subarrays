@@ -1,0 +1,22 @@
+class Solution {
+public:
+    long long continuousSubarrays(vector<int>& nums) {
+        map<int,int>mp;
+        int i=0,j=0,n=nums.size();
+        long long count=0;
+        while(j<n){
+           mp[nums[j]]++;
+
+           while(abs(mp.begin()->first-mp.rbegin()->first)>2){
+            mp[nums[i]]--;
+            if(mp[nums[i]]==0){
+                mp.erase(nums[i]);
+            }
+            i++;
+           }
+           count+=j-i+1;
+           j++;
+        }
+        return count;
+    }
+};
