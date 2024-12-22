@@ -1,0 +1,77 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+struct Segtree {
+ private:
+  vector<int> tree;
+  int n;
+
+  void build(const vector<int>& arr, int v, int L, int R) {
+    if (L == R) {
+      tree[v] = arr[L];
+    } else {
+      build(arr, 2 * v, L, (L + R) / 2);
+      build(arr, 2 * v + 1, (L + R) / 2 + 1, R);
+      tree[v] = max(tree[2 * v], tree[2 * v + 1]);
+    }
+  }
+
+  int leftmost_gt(int v, int lv, int rv, int l, int r, int x) {
+    if (lv > r || rv < l) return -1;
+    if (l <= lv && rv <= r) {
+      if (tree[v] <= x) return -1;
+      while (lv != rv) {
+        const int mid = (lv + rv) / 2;
+        if (tree[2 * v] > x) {
+          v = 2 * v;
+          rv = mid;
+        } else {
+          v = 2 * v + 1;
+          lv = mid + 1;
+        }
+      }
+      return lv;
+    }
+
+    const int mid = (lv + rv) / 2;
+    const int val = leftmost_gt(2 * v, lv, mid, l, r, x);
+    if (val != -1) return val;
+    return leftmost_gt(2 * v + 1, mid + 1, rv, l, r, x);
+  }
+
+ public:
+  Segtree(const vector<int>& arr) : n(arr.size()) {
+    tree.assign(4 * n, 0);
+    build(arr, 1, 0, n - 1);
+  }
+
+  int leftmost_gt(int i, int x) { return leftmost_gt(1, 0, n - 1, i, n - 1, x); }
+};
+
+class Solution {
+ public:
+  vector<int> leftmostBuildingQueries(const vector<int>& heights,const vector<vector<int>>& queries) {
+    Segtree st(heights);
+
+    vector<int> ans;
+
+    for (const vector<int>& q : queries) {
+      const auto [i, j] = minmax(q.front(), q.back());
+
+      if (i == j) {
+        ans.emplace_back(i);
+        continue;
+      }
+
+      const int max_height = max(heights[i], heights[j]);
+
+      if (heights[i] < heights[j]) {
+        ans.emplace_back(j);
+      } else {
+        ans.emplace_back(st.leftmost_gt(j, max_height));
+      }
+    }
+
+    return ans;
+  }
+};
