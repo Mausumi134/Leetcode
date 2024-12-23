@@ -1,0 +1,53 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int getswap(vector<int>& vec){
+        vector<int>sortedvec(vec.begin(),vec.end());
+        sort(sortedvec.begin(),sortedvec.end());
+        int swaps=0;
+        unordered_map<int,int>mp;
+
+        for(int i=0;i<vec.size();i++){
+            mp[vec[i]]=i;
+        }
+
+        for(int i=0;i<vec.size();i++){
+            if(sortedvec[i]==vec[i])continue;
+
+            int curridx=mp[sortedvec[i]];
+            mp[vec[i]]=curridx;
+            mp[vec[curridx]]=i;
+            swap(vec[i],vec[curridx]);
+            swaps++;
+        }
+        return swaps;
+    }
+    int minimumOperations(TreeNode* root) {
+        queue<TreeNode*>q;
+        q.push(root);
+        int swaps=0;
+        while(!q.empty()){
+            int n=q.size();
+            vector<int>vec(n);
+            for(int i=0;i<n;i++){
+              TreeNode* node=q.front();
+              q.pop();
+              vec[i] = node->val;
+              if(node->left!=NULL)q.push(node->left);
+              if(node->right!=NULL)q.push(node->right);
+            }
+            swaps+=getswap(vec);
+        }
+        return swaps;
+    }
+};
