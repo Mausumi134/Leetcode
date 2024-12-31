@@ -1,0 +1,26 @@
+class Solution {
+public:
+    unordered_set<int>s;
+    int solve(vector<int>&dp,vector<int>& days, vector<int>& costs,int curr){
+        if(curr>days[days.size()-1])return 0;
+
+        if(s.find(curr)==s.end())return solve(dp,days,costs,curr+1);
+
+        if(dp[curr]!=-1)return dp[curr];
+
+        int one=costs[0]+solve(dp,days,costs,curr+1);
+        int seven=costs[1]+solve(dp,days,costs,curr+7);
+         int thirty=costs[2]+solve(dp,days,costs,curr+30);
+
+         return dp[curr]=min(one,min(seven,thirty));
+    }
+    int mincostTickets(vector<int>& days, vector<int>& costs) {
+        int n=days.size();
+        int last=days[n-1];
+        vector<int>dp(last+1,-1);
+        for(int d:days){
+            s.insert(d);
+        }
+        return solve(dp,days,costs,1);
+    }
+};
