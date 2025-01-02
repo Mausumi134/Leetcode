@@ -1,0 +1,31 @@
+class Solution {
+public:
+    vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
+        int n=words.size();
+        vector<int>prefix(n,0);
+        for(int i=0;i<words.size();i++){
+            char f=words[i].front();
+            char b=words[i].back();
+             if ((f == 'a' || f == 'e' || f == 'i' || f == 'o' || f == 'u') &&
+                (b == 'a' || b == 'e' || b == 'i' || b == 'o' || b == 'u')) {
+                prefix[i] = (i == 0 ? 1 : prefix[i - 1] + 1);
+            } else {
+                prefix[i] = (i == 0 ? 0 : prefix[i - 1]);
+            }
+        }
+
+        vector<int>result;
+
+        for(auto& q:queries){
+            int L=q[0];
+            int R=q[1];
+
+            int sum=prefix[R];
+            if(L>0){
+                sum-=prefix[L-1];
+            }
+             result.push_back(sum);
+        }
+        return result;
+    }
+};
