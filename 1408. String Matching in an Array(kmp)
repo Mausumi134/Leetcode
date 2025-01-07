@@ -1,0 +1,67 @@
+class Solution {
+public:
+    void computelps(vector<int>& lps,string& pat){
+        int m=pat.size();
+        int length=0;
+        lps[0]=0;
+        int i=1;
+        while(i<m){
+            if(pat[i]==pat[length]){
+                length++;
+                lps[i]=length;
+                i++;
+            }
+            else{
+                if(length!=0){
+                    length=lps[length-1];
+                }
+                else{
+                    lps[i]=0;
+                    i++;
+                }
+            }
+        }
+    }
+    bool search(string& txt,string& pat){
+        int n=txt.size();
+        int m=pat.size();
+        vector<int>lps(m,0);
+
+        computelps(lps,pat);
+        int i=0;
+        int j=0;
+
+        while(i<n){
+            if(txt[i]==pat[j]){
+                i++;
+                j++;
+            }
+            if(j==m){
+                return true;
+            }
+            if(i<n && txt[i]!=pat[j]){
+                if(j!=0){
+                    j=lps[j-1];
+                }
+                else{
+                    i++;
+                }
+            }
+        }
+        return false;
+    }
+    vector<string> stringMatching(vector<string>& words) {
+        int n=words.size();
+        vector<string>result;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(i==j)continue;
+                if(search(words[j],words[i])){
+                    result.push_back(words[i]);
+                    break;
+                }
+            }
+        }
+        return result;
+    }
+};
