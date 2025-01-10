@@ -1,0 +1,32 @@
+class Solution {
+public:
+    bool issubet(vector<int>result,vector<int>temp){
+        for(int i=0;i<26;i++){
+            if(temp[i]<result[i])return false;
+        }
+        return true;
+    }
+    vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
+        vector<string>result;
+        vector<int>freq(26);
+
+        for(string& s:words2){
+            int temp[26]={0};
+            for(char ch:s){
+                temp[ch-'a']++;
+                freq[ch-'a']=max(freq[ch-'a'],temp[ch-'a']);
+            }
+        }
+
+        for(string& s:words1){
+            vector<int>temp(26,0);
+            for(char ch:s){
+                temp[ch-'a']++;
+            }
+            if(issubet(freq,temp)){
+                result.push_back(s);
+            }
+        }
+        return result;
+    }
+};
