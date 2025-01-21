@@ -1,0 +1,16 @@
+class Solution {
+public:
+    long long gridGame(vector<vector<int>>& grid) {
+       long long firstrowsum=accumulate(grid[0].begin(),grid[0].end(),0LL);
+
+       long long secondrowsum=0;
+       long long mini=LONG_LONG_MAX;
+       for(int col=0;col<grid[0].size();col++){
+          firstrowsum-=grid[0][col];
+          long long best=max(firstrowsum,secondrowsum);
+          mini=min(mini,best);
+          secondrowsum+=grid[1][col];
+       }
+        return mini;
+    }
+};
