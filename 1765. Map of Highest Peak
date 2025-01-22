@@ -1,0 +1,45 @@
+class Solution {
+public:
+    vector<vector<int>> highestPeak(vector<vector<int>>& isWater) {
+      int n=isWater.size();
+      int m=isWater[0].size();
+      vector<vector<int>>ans(n,vector<int>(m,0));
+      vector<vector<int>>visited(n,vector<int>(m,0));
+
+      queue<pair<pair<int,int>,int>>q;
+
+      for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+         if(isWater[i][j]==1){
+            visited[i][j]=1;
+            q.push({{i,j},0});
+         }
+         else{
+            visited[i][j]=0;
+         }
+        }
+      }
+    int dx[4]={-1,0,1,0};
+    int dy[4]={0,1,0,-1};
+
+    while(!q.empty()){
+        pair<pair<int,int>,int>p=q.front();
+        int x=p.first.first;
+        int y=p.first.second;
+        int height=p.second;
+        q.pop();
+        ans[x][y]=height;
+
+        for(int i=0;i<4;i++){
+            int newx=x+dx[i];
+            int newy=y+dy[i];
+            if(newx>=0 && newx<n && newy>=0 && newy<m && isWater[newx][newy]==0 && visited[newx][newy]==0){
+                visited[newx][newy]=1;
+                q.push({{newx,newy},height+1});
+            }
+        }
+
+    }
+    return ans;
+    }
+};
