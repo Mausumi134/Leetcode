@@ -1,0 +1,50 @@
+class Solution {
+public:
+    vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
+        vector<vector<int>>adj(n);
+        vector<int>inDegree(n,0);
+
+        for(auto edge:prerequisites){
+            int u=edge[0];
+            int v=edge[1];
+
+            adj[u].push_back(v);
+            inDegree[v]++;
+        }
+
+        queue<int>q;
+
+        for(int i=0;i<n;i++){
+            if(inDegree[i]==0)q.push(i);
+        }
+
+        unordered_map<int,unordered_set<int>>pre;
+
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+
+            for(auto ad:adj[node]){
+                pre[ad].insert(node);
+                for(auto p:pre[node]){
+                    pre[ad].insert(p);
+                }
+
+                inDegree[ad]--;
+                if(inDegree[ad]==0){
+                    q.push(ad);
+                }
+            }
+        }
+
+        vector<bool>ans;
+
+        for(auto q:queries){
+            int u=q[0];
+            int v=q[1];
+
+           ans.push_back(pre[v].contains(u));
+        }
+        return ans;
+    }
+};
