@@ -1,0 +1,37 @@
+class Solution {
+public:
+    int dfs(int x,int y,int row,int col, vector<vector<int>>& visited,vector<vector<int>>& grid){
+        visited[x][y]=1;
+
+        int dx[4]={0,0,1,-1};
+        int dy[4]={1,-1,0,0};
+        int fish=grid[x][y];
+        for(int i=0;i<4;i++){
+           int newx=x+dx[i];
+           int newy=y+dy[i];
+           
+           if(newx>=0 && newx<row && newy>=0 && newy<col && !visited[newx][newy] && grid[newx][newy]>0){
+           
+           fish+= dfs(newx,newy,row,col,visited,grid);
+           }
+        }
+        return fish;
+    }
+    int findMaxFish(vector<vector<int>>& grid) {
+        int row=grid.size();
+        int col=grid[0].size();
+
+        vector<vector<int>>visited(row,vector<int>(col,0));
+        int maxFish=0;
+
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+              if(!visited[i][j] && grid[i][j]>0){
+               int count= dfs(i,j,row,col,visited,grid);
+               maxFish=max(maxFish,count);
+              }
+            }
+        }
+        return maxFish;
+    }
+};
