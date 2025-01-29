@@ -1,0 +1,50 @@
+class Solution {
+public:
+    void dfs(int src, vector<vector<int>>& adjList,vector<bool>& visited,vector<int>& parent,vector<bool>& cycle){
+        visited[src]=true;
+
+        for(int adj:adjList[src]){
+            if(!visited[adj]){
+                parent[adj]=src;
+                dfs(adj,adjList,visited,parent,cycle);
+            }
+            else if(parent[src]!=adj && !cycle[src]){
+                int node=src;
+                while(node!=adj){
+                    cycle[node]=true;
+                    node=parent[node];
+                }
+                cycle[adj]=true;
+                cycle[src]=true;
+            }
+        }
+    }
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int n=edges.size();
+
+        vector<vector<int>> adjList(n);
+
+
+        for(auto edge:edges){
+            int u=edge[0]-1;
+            int v=edge[1]-1;
+            adjList[u].push_back(v);
+            adjList[v].push_back(u);
+        }
+
+        vector<bool>visited(n,false);
+        vector<int>parent(n,-1);
+        vector<bool>cycle(n,false);
+
+
+        dfs(0,adjList,visited,parent,cycle);
+
+       for(int i=n-1;i>=0;i--){
+        if(cycle[edges[i][0]-1] && cycle[edges[i][1]-1] ){
+            return edges[i];
+        }
+       }
+       return {};
+
+    }
+};
