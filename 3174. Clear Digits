@@ -1,0 +1,25 @@
+class Solution {
+public:
+    string clearDigits(string s) {
+        int i=0,j=0;
+
+       int n=s.size();
+
+       while(i<n){
+        if(isdigit(s[i])){
+            if(j-1<0){
+                j=0;
+            }
+            else{
+                j--;
+            }
+        }
+        else{
+            s[j]=s[i];
+            j++;
+        }
+        i++;
+       }
+       return s.substr(0,j);
+    }
+};
