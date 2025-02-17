@@ -1,0 +1,28 @@
+class Solution {
+public:
+    void solve(string& tiles,string& res,vector<bool>& used,unordered_set<string>& seq){
+        seq.insert(res);
+
+        for(int i=0;i<tiles.size();i++){
+            if(used[i])continue;
+
+            used[i]=true;
+            res.push_back(tiles[i]);
+            solve(tiles,res,used,seq);
+            res.pop_back();
+            used[i]=false;
+        }
+    }
+    int numTilePossibilities(string tiles) {
+        if(tiles.size()==1)return 1;
+
+        vector<bool>used(tiles.length(),false);
+
+        unordered_set<string>seq;
+        string res="";
+        solve(tiles,res,used,seq);
+
+        return seq.size()-1;
+
+    }
+};
