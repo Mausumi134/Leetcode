@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int mod=1e9+7;
+    int numOfSubarrays(vector<int>& arr) {
+        int count=0,prefixsum=0;
+
+        int odd=0,even=1;
+
+        for(int num:arr){
+            prefixsum+=num;
+
+            if(prefixsum%2==0){
+                count+=odd;
+                even++;
+            }
+            else{
+                count+=even;
+                odd++;
+            }
+            count=count%mod;
+        }
+        return count;
+    }
+};
