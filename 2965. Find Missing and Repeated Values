@@ -1,0 +1,24 @@
+class Solution {
+public:
+    vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
+        unordered_map<int,int>mp;
+        int n=grid.size();
+        int miss=-1,repeat=-1;
+
+        for(auto& row:grid){
+            for(int num:row){
+                mp[num]++;
+            }
+        }
+
+        for(int i=1;i<=n*n;i++){
+            if(!mp.count(i)){
+                miss=i;
+            }
+            else if(mp[i]==2){
+                repeat=i;
+            }
+        }
+        return {repeat,miss};
+    }
+};
