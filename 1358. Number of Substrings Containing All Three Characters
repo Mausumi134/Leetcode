@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int numberOfSubstrings(string s) {
+        int i=0,n=s.size();
+        unordered_map<char,int>mp;
+        int uniquecount=0,count=0;
+        for(int j=0;j<n;j++){
+            char c=s[j];
+            if(mp[c]==0)uniquecount++;
+            mp[c]++;
+
+            while(uniquecount==3){
+                count+=n-j;
+                
+                mp[s[i]]--;
+                if(mp[s[i]]==0){
+                    mp.erase(s[i]);
+                    uniquecount--;
+                }
+                i++;
+            }
+        }
+        return count;
+    }
+};
