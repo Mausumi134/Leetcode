@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int countSymmetricIntegers(int low, int high) {
+        int res=0;
+        for(int num=low;num<=high;num++){
+            if((num>=10 && num<=99) && (num%11==0)){
+                res++;
+            }
+            if(num>=1000 && num<=9999){
+                int first=num/1000;
+                int second=(num/100)%10;
+                int sum1=first+second;
+                int third=(num/10)%10;
+                int four=num%10;
+                int sum2=third+four;
+
+                if(sum1==sum2){
+                    res++;
+                }
+                
+            }
+        }
+        return res;
+    }
+};
