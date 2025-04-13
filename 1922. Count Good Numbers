@@ -1,0 +1,21 @@
+class Solution {
+public:
+    typedef long long ll;
+    ll mod=1e9+7;
+    ll pow(ll n,ll e){
+       if(e==0)return 1;
+
+       ll ans=pow(n,e/2);
+       ans*=ans;
+       ans%=mod;
+
+      if(e%2) ans=(ans * n) % mod;
+      return ans;
+    }
+    int countGoodNumbers(long long n) {
+        ll odd=(n+1)/2;
+        ll even=n/2;
+
+        return (pow(5,odd)*pow(4,even))%mod;
+    }
+};
