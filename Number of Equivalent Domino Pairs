@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int numEquivDominoPairs(vector<vector<int>>& dominoes) {
+       
+        int count=0;
+        vector<int>res(100);
+        for(auto& d:dominoes){
+            if(d[0]>d[1]){
+                swap(d[0],d[1]);
+            }
+            int num=10*d[0]+d[1];
+            count+=res[num];
+            res[num]++;
+        }
+        return count;
+        
+    }
+};
