@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int minCost(string colors, vector<int>& neededTime) {
+       int total=0,currmax=0;
+
+       for(int i=0;i<colors.size();i++){
+        if(i>0 && colors[i]!=colors[i-1]){
+            currmax=0;
+        }
+
+        total+=min(currmax,neededTime[i]);
+        currmax=max(currmax,neededTime[i]);
+       }
+       return total;
+    }
+};
