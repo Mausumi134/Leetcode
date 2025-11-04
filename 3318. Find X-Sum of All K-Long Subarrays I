@@ -1,0 +1,33 @@
+class Solution {
+public:
+    vector<int> findXSum(vector<int>& nums, int k, int x) {
+        unordered_map<int,int>mp;
+        int i=0;
+        int n=nums.size();
+        vector<int>ans;
+        for(int j=0;j<n;j++){
+            mp[nums[j]]++;
+           
+            if(j-i+1==k){
+               priority_queue<pair<int,int>>pq;
+               for(auto it:mp){
+                pq.push({it.second,it.first});
+               } 
+               int sum=0,count = x;;
+               while(!pq.empty() && count--){
+                auto top=pq.top();
+                pq.pop();
+                sum+=top.second*top.first;
+               }
+                ans.push_back(sum);
+               mp[nums[i]]--;
+                if (mp[nums[i]] == 0) {
+                    mp.erase(nums[i]);
+                }
+                i++;
+                
+            }
+        }
+        return ans;
+    }
+};
