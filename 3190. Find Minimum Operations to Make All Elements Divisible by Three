@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int minimumOperations(vector<int>& nums) {
+        int count=0;
+        for(int num:nums){
+            int r=num%3;
+
+            if(r==0)continue;
+            count+=min(r,3-r);
+        }
+        return count;
+    }
+};
