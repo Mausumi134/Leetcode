@@ -1,0 +1,17 @@
+class Solution {
+public:
+    long long maxSubarraySum(vector<int>& nums, int k) {
+        long long maxsum=LONG_LONG_MIN,prefixsum=0;
+        int n=nums.size();
+        vector<long long> prefix(k, LLONG_MAX/2);
+        prefix[k-1]=0;
+
+        for(int i=0;i<n;i++){
+            prefixsum+=nums[i];
+           maxsum=max(maxsum,prefixsum-prefix[i%k]);
+
+           prefix[i%k]=min(prefix[i%k],prefixsum);
+        }
+       return maxsum;
+    }
+};
