@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mausumi134/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/Mausumi134/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mausumi134/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Mausumi134/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
