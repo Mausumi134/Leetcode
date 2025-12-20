@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Mausumi134/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mausumi134/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mausumi134/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Mausumi134/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
