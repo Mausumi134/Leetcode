@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mausumi134/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Mausumi134/Leetcode/tree/master/0198-house-robber) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mausumi134/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mausumi134/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mausumi134/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Math
