@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mausumi134/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Mausumi134/Leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/Mausumi134/Leetcode/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mausumi134/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -51,17 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mausumi134/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mausumi134/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Mausumi134/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Mausumi134/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mausumi134/Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Mausumi134/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mausumi134/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -138,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
