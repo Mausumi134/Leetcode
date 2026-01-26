@@ -4,14 +4,15 @@ public:
         int n=nums.size()/2;
 
         unordered_map<int,int>mp;
+
         for(int num:nums){
             mp[num]++;
         }
         int ans;
-        for(auto it:mp){
-           if(it.second==n){
-               ans=it.first;
-           }
+        for(auto i:mp){
+          if(i.second==n){
+            ans=i.first;
+          }
         }
         return ans;
     }
