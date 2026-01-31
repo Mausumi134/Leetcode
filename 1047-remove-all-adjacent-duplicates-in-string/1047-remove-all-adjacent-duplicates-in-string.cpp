@@ -3,23 +3,15 @@ public:
     string removeDuplicates(string s) {
         string res="";
 
-        stack<char>st;
-
         for(char c:s){
-            
-            if(!st.empty() && st.top()==c){
-                st.pop();
+            if(!res.empty() && res.back()==c){
+                res.pop_back();
             }
             else{
-                st.push(c);
+
+                res.push_back(c);
             }
         }
-
-       while(!st.empty()){
-           res+=st.top();
-           st.pop();
-       }
-       reverse(res.begin(),res.end());
-       return res;
+        return res;
     }
 };
