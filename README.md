@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mausumi134/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mausumi134/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mausumi134/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mausumi134/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Mausumi134/Leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Math
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mausumi134/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Matrix
 |  |
 | ------- |
