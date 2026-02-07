@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mausumi134/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mausumi134/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Mausumi134/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mausumi134/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
