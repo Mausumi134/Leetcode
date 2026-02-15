@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mausumi134/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mausumi134/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Mausumi134/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Mausumi134/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mausumi134/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mausumi134/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mausumi134/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mausumi134/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Mausumi134/Leetcode/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mausumi134/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mausumi134/Leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mausumi134/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3379-transformed-array](https://github.com/Mausumi134/Leetcode/tree/master/3379-transformed-array) |
