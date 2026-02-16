@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mausumi134/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mausumi134/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Mausumi134/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Mausumi134/Leetcode/tree/master/0072-edit-distance) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mausumi134/Leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
