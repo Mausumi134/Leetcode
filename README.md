@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mausumi134/Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Mausumi134/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Mausumi134/Leetcode/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mausumi134/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mausumi134/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mausumi134/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Mausumi134/Leetcode/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/Mausumi134/Leetcode/tree/master/0401-binary-watch) |
 ## Design
 |  |
 | ------- |
