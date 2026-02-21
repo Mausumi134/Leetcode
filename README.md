@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Mausumi134/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Mausumi134/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mausumi134/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mausumi134/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mausumi134/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Mausumi134/Leetcode/tree/master/0799-champagne-tower) |
 | [1092-shortest-common-supersequence](https://github.com/Mausumi134/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mausumi134/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mausumi134/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mausumi134/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Mausumi134/Leetcode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mausumi134/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mausumi134/Leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Mausumi134/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
