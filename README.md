@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Mausumi134/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Mausumi134/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mausumi134/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mausumi134/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mausumi134/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mausumi134/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Mausumi134/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mausumi134/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mausumi134/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mausumi134/Leetcode/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/Mausumi134/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mausumi134/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
