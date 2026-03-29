@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mausumi134/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mausumi134/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Mausumi134/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mausumi134/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
