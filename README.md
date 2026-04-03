@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mausumi134/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Mausumi134/Leetcode/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mausumi134/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Mausumi134/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mausumi134/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mausumi134/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Mausumi134/Leetcode/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mausumi134/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mausumi134/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mausumi134/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mausumi134/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3453-separate-squares-i](https://github.com/Mausumi134/Leetcode/tree/master/3453-separate-squares-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Mausumi134/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
