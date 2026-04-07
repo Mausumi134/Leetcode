@@ -499,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mausumi134/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1341-movie-rating](https://github.com/Mausumi134/Leetcode/tree/main/1341-movie-rating/) | Medium |
 <!---LeetCode Topics End-->
