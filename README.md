@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mausumi134/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mausumi134/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Mausumi134/Leetcode/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mausumi134/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mausumi134/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Mausumi134/Leetcode/tree/master/0868-binary-gap) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mausumi134/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mausumi134/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mausumi134/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/Mausumi134/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -503,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1341-movie-rating](https://github.com/Mausumi134/Leetcode/tree/main/1341-movie-rating/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
