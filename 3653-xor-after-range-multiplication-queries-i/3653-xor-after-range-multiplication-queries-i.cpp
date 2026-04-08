@@ -8,10 +8,11 @@ public:
             int v=it[3];
 
             for(int i=l;i<=r;i+=k){
-                nums[i] = (1LL * nums[i] * v) % 1000000007;
+                nums[i]=(1LL*nums[i]*v)%1000000007;
             }
         }
         int xori=0;
+
         for(int num:nums){
             xori^=num;
         }
