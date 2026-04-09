@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mausumi134/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mausumi134/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Mausumi134/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Mausumi134/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mausumi134/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Mausumi134/Leetcode/tree/master/0994-rotting-oranges) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Mausumi134/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
 | [0761-special-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/0761-special-binary-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mausumi134/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Mausumi134/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mausumi134/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Mausumi134/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mausumi134/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Mausumi134/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/Mausumi134/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mausumi134/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mausumi134/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
