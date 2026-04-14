@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix">1704. Special Positions in a Binary Matrix</a></h2><h3>Easy</h3><hr><p>Given an <code>m x n</code> binary matrix <code>mat</code>, return <em>the number of special positions in </em><code>mat</code><em>.</em></p>
+<h2><a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix">1582. Special Positions in a Binary Matrix</a></h2><h3>Easy</h3><hr><p>Given an <code>m x n</code> binary matrix <code>mat</code>, return <em>the number of special positions in </em><code>mat</code><em>.</em></p>
 
 <p>A position <code>(i, j)</code> is called <strong>special</strong> if <code>mat[i][j] == 1</code> and all other elements in row <code>i</code> and column <code>j</code> are <code>0</code> (rows and columns are <strong>0-indexed</strong>).</p>
 
