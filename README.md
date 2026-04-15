@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mausumi134/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mausumi134/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mausumi134/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Mausumi134/Leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Mausumi134/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Mausumi134/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mausumi134/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mausumi134/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Mausumi134/Leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mausumi134/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mausumi134/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Mausumi134/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
 | [0761-special-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/0761-special-binary-string) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Mausumi134/Leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0922-sort-array-by-parity-ii](https://github.com/Mausumi134/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Mausumi134/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mausumi134/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mausumi134/Leetcode/tree/master/0155-min-stack) |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Mausumi134/Leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -523,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0768-max-chunks-to-make-sorted-ii](https://github.com/Mausumi134/Leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 <!---LeetCode Topics End-->
