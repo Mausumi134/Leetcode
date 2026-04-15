@@ -1,29 +1,26 @@
 class Solution {
-    public int maxChunksToSorted(int[] arr) {
-        int n = arr.length;
-        int count = 0;
+    public int maxChunksToSorted(int[] input) {
+        int n = input.length;
+        int[] suffixR = new int[n];
 
-        int mini = Integer.MAX_VALUE;
-        int[] mn_till = new int[n];
+        suffixR[n - 1] = input[n - 1];
 
-        // suffix minimum array
-        for (int i = n - 1; i >= 0; i--) {
-            mini = Math.min(mini, arr[i]);
-            mn_till[i] = mini;
+        for (int i = n - 2; i >= 0; i--) {
+            suffixR[i] = Math.min(suffixR[i + 1], input[i]);
         }
 
-        int maxi = arr[0];
+        int leftMax = input[0];
+        int chunks = 0;
 
-        // check valid splits
         for (int i = 1; i < n; i++) {
-            if (maxi <= mn_till[i]) {
-                count++;
-                maxi = arr[i];   // reset for next chunk
+            if (leftMax <= suffixR[i]) {
+                chunks++;
+                leftMax = input[i];   // important reset
             } else {
-                maxi = Math.max(maxi, arr[i]);
+                leftMax = Math.max(leftMax, input[i]);
             }
         }
 
-        return count + 1;
+        return chunks + 1;
     }
 }
