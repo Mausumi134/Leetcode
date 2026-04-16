@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mausumi134/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/Mausumi134/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mausumi134/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mausumi134/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/Mausumi134/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mausumi134/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mausumi134/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Mausumi134/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mausumi134/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
