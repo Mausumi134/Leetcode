@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mausumi134/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mausumi134/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
+| [0483-smallest-good-base](https://github.com/Mausumi134/Leetcode/tree/main/0483-smallest-good-base/) | Hard |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mausumi134/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Mausumi134/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mausumi134/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mausumi134/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
+| [0483-smallest-good-base](https://github.com/Mausumi134/Leetcode/tree/main/0483-smallest-good-base/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mausumi134/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mausumi134/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
