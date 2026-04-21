@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1341-movie-rating](https://github.com/Mausumi134/Leetcode/tree/main/1341-movie-rating/) | Medium |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mausumi134/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Mausumi134/Leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Mausumi134/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 ## Trie
