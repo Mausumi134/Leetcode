@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mausumi134/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mausumi134/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mausumi134/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mausumi134/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Mausumi134/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mausumi134/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Mausumi134/Leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Mausumi134/Leetcode/tree/master/0127-word-ladder) |
+| [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Mausumi134/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mausumi134/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
