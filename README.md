@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
+| [0396-rotate-function](https://github.com/Mausumi134/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Mausumi134/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mausumi134/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Mausumi134/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Mausumi134/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Mausumi134/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mausumi134/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mausumi134/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/Mausumi134/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0483-smallest-good-base](https://github.com/Mausumi134/Leetcode/tree/main/0483-smallest-good-base/) | Hard |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mausumi134/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
