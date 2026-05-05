@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Mausumi134/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mausumi134/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mausumi134/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mausumi134/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Mausumi134/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Mausumi134/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mausumi134/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Mausumi134/Leetcode/tree/master/0189-rotate-array) |
