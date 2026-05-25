@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mausumi134/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/Mausumi134/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mausumi134/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mausumi134/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mausumi134/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mausumi134/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1871-jump-game-vii](https://github.com/Mausumi134/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Mausumi134/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mausumi134/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Mausumi134/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1871-jump-game-vii](https://github.com/Mausumi134/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Mausumi134/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Mausumi134/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mausumi134/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mausumi134/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Mausumi134/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1871-jump-game-vii](https://github.com/Mausumi134/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mausumi134/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
