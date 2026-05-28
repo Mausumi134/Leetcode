@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mausumi134/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mausumi134/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/Mausumi134/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mausumi134/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/Mausumi134/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3379-transformed-array](https://github.com/Mausumi134/Leetcode/tree/master/3379-transformed-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Mausumi134/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mausumi134/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mausumi134/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Mausumi134/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mausumi134/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Mausumi134/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mausumi134/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/Mausumi134/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
