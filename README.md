@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Mausumi134/Leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mausumi134/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Mausumi134/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mausumi134/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Mausumi134/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mausumi134/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mausumi134/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3379-transformed-array](https://github.com/Mausumi134/Leetcode/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mausumi134/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mausumi134/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mausumi134/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
