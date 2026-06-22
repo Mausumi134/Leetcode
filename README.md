@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Mausumi134/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mausumi134/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mausumi134/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Mausumi134/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mausumi134/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mausumi134/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Mausumi134/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Mausumi134/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mausumi134/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mausumi134/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mausumi134/Leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Mausumi134/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Mausumi134/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Mausumi134/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search Tree
