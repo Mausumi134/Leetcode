@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Mausumi134/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mausumi134/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Mausumi134/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mausumi134/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mausumi134/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mausumi134/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mausumi134/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Mausumi134/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/Mausumi134/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mausumi134/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mausumi134/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
