@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Mausumi134/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mausumi134/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mausumi134/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Mausumi134/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mausumi134/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mausumi134/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mausumi134/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mausumi134/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mausumi134/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Mausumi134/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mausumi134/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mausumi134/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
