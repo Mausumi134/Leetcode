@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mausumi134/Leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mausumi134/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Mausumi134/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0396-rotate-function](https://github.com/Mausumi134/Leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mausumi134/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Mausumi134/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mausumi134/Leetcode/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/Mausumi134/Leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Mausumi134/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/Mausumi134/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Mausumi134/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Mausumi134/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
