@@ -1,24 +1,31 @@
 class NumArray {
-
     int[] numArray;
+    int[] prefixSum;
 
     public NumArray(int[] nums) {
-        this.numArray = nums;
+        numArray = nums;
+        prefixSum = new int[nums.length];
+        initializePrefixArray(nums.length);
+    }
+
+    public void initializePrefixArray(int n) {
+        int sum = 0;
+        for (int i = 0; i < n; i++) {
+            sum += numArray[i];
+            prefixSum[i] = sum;
+        }
     }
 
     public int sumRange(int left, int right) {
-        int sum = 0;
-
-        for (int i = left; i <= right; i++) {
-            sum += numArray[i];
+        if (left == 0) {
+            return prefixSum[right];
         }
-
-        return sum;
+        return prefixSum[right] - prefixSum[left] + numArray[left];
     }
 }
 
 /**
  * Your NumArray object will be instantiated and called as such:
  * NumArray obj = new NumArray(nums);
- * int param_1 = obj.sumRange(left,right);
+ * int param_1 = obj.sumRange(left, right);
  */
