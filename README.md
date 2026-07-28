@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Mausumi134/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mausumi134/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mausumi134/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mausumi134/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mausumi134/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mausumi134/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mausumi134/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mausumi134/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mausumi134/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mausumi134/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Mausumi134/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mausumi134/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/Mausumi134/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mausumi134/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mausumi134/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Mausumi134/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
