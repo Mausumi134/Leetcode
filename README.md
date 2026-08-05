@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Mausumi134/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Mausumi134/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mausumi134/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mausumi134/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/Mausumi134/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mausumi134/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Mausumi134/Leetcode/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/Mausumi134/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
