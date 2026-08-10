@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mausumi134/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1406-stone-game-iii](https://github.com/Mausumi134/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mausumi134/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/Mausumi134/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Mausumi134/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Mausumi134/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Mausumi134/Leetcode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Mausumi134/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Mausumi134/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mausumi134/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Mausumi134/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -698,4 +700,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Mausumi134/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Mausumi134/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Mausumi134/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Mausumi134/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Mausumi134/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Mausumi134/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
