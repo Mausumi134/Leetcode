@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Mausumi134/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mausumi134/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mausumi134/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mausumi134/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mausumi134/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mausumi134/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mausumi134/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mausumi134/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mausumi134/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mausumi134/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mausumi134/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mausumi134/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Mausumi134/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3531-count-covered-buildings](https://github.com/Mausumi134/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mausumi134/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Mausumi134/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mausumi134/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mausumi134/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Mausumi134/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Mausumi134/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mausumi134/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mausumi134/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mausumi134/Leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Mausumi134/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mausumi134/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
