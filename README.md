@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mausumi134/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mausumi134/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mausumi134/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Mausumi134/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mausumi134/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mausumi134/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Mausumi134/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Mausumi134/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mausumi134/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Mausumi134/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mausumi134/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Mausumi134/Leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mausumi134/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Mausumi134/Leetcode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Mausumi134/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mausumi134/Leetcode/tree/master/0547-number-of-provinces) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mausumi134/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Mausumi134/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mausumi134/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Mausumi134/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Mausumi134/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Mausumi134/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mausumi134/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
