@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Mausumi134/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mausumi134/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/Mausumi134/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Mausumi134/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mausumi134/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Mausumi134/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mausumi134/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/Mausumi134/Leetcode/tree/main/1654-minimum-jumps-to-reach-home/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mausumi134/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mausumi134/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mausumi134/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mausumi134/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mausumi134/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mausumi134/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1871-jump-game-vii](https://github.com/Mausumi134/Leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1903-largest-odd-number-in-string) |
