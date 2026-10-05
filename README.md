@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mausumi134/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mausumi134/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/0761-special-binary-string) |
+| [0856-score-of-parentheses](https://github.com/Mausumi134/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Mausumi134/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Mausumi134/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mausumi134/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mausumi134/Leetcode/tree/master/0155-min-stack) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Mausumi134/Leetcode/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+| [0856-score-of-parentheses](https://github.com/Mausumi134/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mausumi134/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mausumi134/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Mausumi134/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -793,4 +795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mausumi134/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Mausumi134/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
