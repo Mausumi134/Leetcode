@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mausumi134/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Mausumi134/Leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Mausumi134/Leetcode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/Mausumi134/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0336-palindrome-pairs](https://github.com/Mausumi134/Leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0389-find-the-difference](https://github.com/Mausumi134/Leetcode/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mausumi134/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mausumi134/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Mausumi134/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Mausumi134/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Mausumi134/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Mausumi134/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Mausumi134/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mausumi134/Leetcode/tree/master/0547-number-of-provinces) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Mausumi134/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Mausumi134/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Mausumi134/Leetcode/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Mausumi134/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/Mausumi134/Leetcode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/Mausumi134/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Design
