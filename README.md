@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Mausumi134/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mausumi134/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mausumi134/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mausumi134/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mausumi134/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mausumi134/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/Mausumi134/Leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Mausumi134/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mausumi134/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mausumi134/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mausumi134/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mausumi134/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mausumi134/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mausumi134/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mausumi134/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Mausumi134/Leetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mausumi134/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2751-robot-collisions](https://github.com/Mausumi134/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mausumi134/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mausumi134/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mausumi134/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mausumi134/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mausumi134/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mausumi134/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3453-separate-squares-i](https://github.com/Mausumi134/Leetcode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/Mausumi134/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mausumi134/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2054-two-best-non-overlapping-events](https://github.com/Mausumi134/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Mausumi134/Leetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mausumi134/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mausumi134/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mausumi134/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
