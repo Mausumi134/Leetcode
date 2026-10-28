@@ -1,8 +1,6 @@
 class Solution {
 public:
-    int solve(int i, int j, int n, int m,
-              vector<vector<int>>& grid,
-              vector<vector<vector<int>>>& dp) {
+    int solve(int i, int j, int n, int m,vector<vector<int>>& grid,vector<vector<vector<int>>>& dp) {
 
         if (i >= n || j >= m) return -1;
 
@@ -19,9 +17,7 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<vector<bool>>> dp(
-            n, vector<vector<bool>>(m, vector<bool>(1024, false))
-        );
+        vector<vector<vector<bool>>> dp(n, vector<vector<bool>>(m, vector<bool>(1024, false)));
 
         dp[0][0][grid[0][0]] = true;
 
